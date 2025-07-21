@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-- 🌱 Currently learning **Practical Ethical Hacking (TCM Security), Bug Bounty (Udemy), CEH (EC-Council)**
+- 🌱 Currently learning **Practical Ethical Hacking (TCM Security),Comptia Security +**
 - 💻 Former MERN Stack Intern at **INFOLABZ**, worked on 3 full projects
 - 🔍 Passionate about **Vulnerability Assessment, Web App Pentesting, OSINT & Red Teaming**
 - 🧪 Actively building and testing tools in my personal cyber lab
@@ -66,8 +66,8 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vaibhav-cybersec)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/vaibhav_eth0)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vaibhavlimbachiyaprofile)  
+  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/vaibhav1466)
 
 ---
