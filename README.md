@@ -1,5 +1,76 @@
-{
-  "filename": "README.md",
-  "content": "# 💻 Hi there, I'm Vaibhav 👋\n\n🔐 **Aspiring Ethical Hacker | MERN Stack Developer | Cybersecurity Enthusiast**\n\n---\n\n## 🧠 About Me\n\n- 🌱 Currently learning **Practical Ethical Hacking (TCM Security), Bug Bounty (Udemy), CEH (EC-Council)**\n- 💻 Former MERN Stack Intern at **INFOLABZ**, worked on 3 full projects\n- 🔍 Passionate about **Vulnerability Assessment, Web App Pentesting, OSINT & Red Teaming**\n- 🧪 Actively building and testing tools in my personal cyber lab\n- 📫 Reach me at **vaibhavcybersec@gmail.com**\n\n---\n\n## 🧩 Projects I’ve Worked On\n\n- 🔐 **RFID Product Scanner** – IoT + RFID based real-time product tracker  \n- 🍲 **Recipe API Platform** – MERN-based project with RESTful APIs  \n- 🧳 **EquipRentals** – Equipment renting system using full MERN stack\n\n---\n\n## 🛠️ Skills\n\n### 💻 Cybersecurity\n![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)\n![Burp Suite](https://img.shields.io/badge/Burp_Suite-F47B20?style=for-the-badge&logo=burpsuite&logoColor=white)\n![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)\n![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)\n![Metasploit](https://img.shields.io/badge/Metasploit-3333cc?style=for-the-badge&logo=metasploit&logoColor=white)\n\n### 🌐 Web Development\n![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)\n![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)\n![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)\n![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)\n![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)\n![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)\n![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)\n\n### ⚙️ Tools & Platforms\n![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)\n![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)\n![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)\n![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)\n\n---\n\n## 📈 GitHub Stats\n\n<p align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api?username=vaibhav&show_icons=true&theme=tokyonight\" alt=\"GitHub Stats\" />\n</p>\n\n<p align=\"center\">\n  <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=vaibhav&theme=tokyonight\" alt=\"GitHub Streak\" />\n</p>\n\n<p align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav&layout=compact&theme=tokyonight\" alt=\"Top Languages\" />\n</p>\n\n---\n\n## 🌐 Connect With Me\n\n[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vaibhav-cybersec)\n[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/vaibhav_eth0)\n[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/vaibhav)\n\n---\n\n## ⚡ Fun Fact\n\nI break into my own systems just to learn how to secure them 😎\n"
-}
+# 💻 Hi there, I'm Vaibhav 👋
 
+🔐 **Aspiring Ethical Hacker | MERN Stack Developer | Cybersecurity Enthusiast**
+
+---
+
+## 🧠 About Me
+
+- 🌱 Currently learning **Practical Ethical Hacking (TCM Security), Bug Bounty (Udemy), CEH (EC-Council)**
+- 💻 Former MERN Stack Intern at **INFOLABZ**, worked on 3 full projects
+- 🔍 Passionate about **Vulnerability Assessment, Web App Pentesting, OSINT & Red Teaming**
+- 🧪 Actively building and testing tools in my personal cyber lab
+- 📫 Reach me at **vaibhavcybersec@gmail.com**
+
+---
+
+## 🧩 Projects I’ve Worked On
+
+- 🔐 **RFID Product Scanner** – IoT + RFID based real-time product tracker  
+- 🍲 **Recipe API Platform** – MERN-based project with RESTful APIs  
+- 🧳 **EquipRentals** – Equipment renting system using full MERN stack
+
+---
+
+## 🛠️ Skills
+
+### 💻 Cybersecurity  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F47B20?style=for-the-badge&logo=burpsuite&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-3333cc?style=for-the-badge&logo=metasploit&logoColor=white)
+
+### 🌐 Web Development  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⚙️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav1466&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav1466&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav1466&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vaibhav-cybersec)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/vaibhav_eth0)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/vaibhav1466)
+
+---
+
+## ⚡ Fun Fact  
+I break into my own systems just to learn how to secure them 😎
