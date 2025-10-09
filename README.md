@@ -10,7 +10,7 @@
 - 💻 Former MERN Stack Intern at **INFOLABZ**, worked on 3 full projects
 - 🔍 Passionate about **Vulnerability Assessment, Web App Pentesting, OSINT & Red Teaming**
 - 🧪 Actively building and testing tools in my personal cyber lab
-- 📫 Reach me at **vaibhavcybersec@gmail.com**
+- 📫 Reach me at **vaibhavlimbachi;ya1466@gmail.com**
 
 ---
 
