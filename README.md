@@ -1,6 +1,6 @@
 # 💻 Hi there, I'm Vaibhav 👋
 
-🔐 **Aspiring Ethical Hacker | MERN Stack Developer | Cybersecurity Enthusiast**
+🔐 **Aspiring Pentration Tester| MERN Stack Developer | Cybersecurity Enthusiast**
 
 ---
 
